@@ -1,8 +1,7 @@
 """
 Have fun with the number of epochs!
 
-Be warned that if you increase them too much,
-the VM will time out :)
+Be warned that if you increase them too much
 """
 from sklearn.datasets import load_boston
 from sklearn.utils import resample
